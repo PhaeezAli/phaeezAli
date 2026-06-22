@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Faiz Ali (Phaeez Ali)
 
-<!--
-**PhaeezAli/phaeezAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | IIT Madras
 
-Here are some ideas to get you started:
+Currently building production AI systems across:
+- Computer Vision
+- Generative AI
+- RAG Systems
+- LLM Applications
+- MLOps & Distributed Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+
+- Reduced image processing time from 8-10 min to ~1 sec
+- Serving 20,000+ images/day
+- Built multi-GPU training infrastructure
+- Developed production RAG and AI CRM systems
+
+## Featured Projects
+
+### SnapStand (Shhhh Secret)
+On-device AI photobooth using CoreML.
+
+### Vissoo (Shhhhhh Secret)
+Creative collaboration and asset review platform.
+
+### MethaneGuard AI
+Real-time methane leak detection platform with RAG copilot.
+
+### Cricket Biomechanics Analyzer
+YOLO11-Pose based cricket analytics system.
+
+
+
+## Contact
+
+LinkedIn: [Link] (https://www.linkedin.com/in/faiz-ali-510747151/)
+Email: afaiz7559@gmail.com | phaeez_ali@alumni.iitm.ac.in
