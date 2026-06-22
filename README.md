@@ -11,7 +11,7 @@ Currently building production AI systems across:
 
 ## Highlights
 
-- Reduced image processing time from 8-10 min to ~1 sec
+- Reduced image processing time from 8-10 min to ~10 sec
 - Serving 20,000+ images/day
 - Built multi-GPU training infrastructure
 - Developed production RAG and AI CRM systems
