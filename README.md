@@ -34,5 +34,5 @@ YOLO11-Pose based cricket analytics system.
 
 ## Contact
 
-LinkedIn: [Link] (https://www.linkedin.com/in/faiz-ali-510747151/)
+LinkedIn:  https://www.linkedin.com/in/faiz-ali-510747151/
 Email: afaiz7559@gmail.com | phaeez_ali@alumni.iitm.ac.in
