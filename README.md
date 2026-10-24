@@ -24,7 +24,7 @@ I build AI systems that run on real work. At Centaq India I built the AI functio
 
 ## Tools
 
-Python, PyTorch, FastAPI, TypeScript, PostgreSQL, Docker, Kubernetes, Azure, GCP. Claude, Gemini and open models.
+Python, PyTorch, FastAPI, TypeScript, PostgreSQL, Docker, Kubernetes, Azure, GCP. Gemini and open-weight models.
 
 ## Contact
 
